@@ -3,13 +3,14 @@
 </p>
 <br/>
 
-Hi ! My name is Nahid
-==============================================================================================================================
-
-### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nahidshuvo1802&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<t/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nahidshuvo1802&theme=dark&hide_border=false)<t/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidshuvo1802&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidshuvo1802&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+Hi ! My name is Nahid
+==============================================================================================================================
 
 Flutter Developer and Vibe Coder
 --------------------------------
