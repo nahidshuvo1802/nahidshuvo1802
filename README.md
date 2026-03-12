@@ -3,13 +3,13 @@
 </p>
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="Pixel Coding Vibe Banner" width="05%" style="border-radius: 10px;">
-</p>
-<br/>
-
-Hi !<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjcyMTExNjIsIm5iZiI6MTc2NzIxMDg2MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjMxVDE5NTQyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwMGE4YjBhZDI1ZTk5ZTZmMDM4MmZkNWZkN2NmNTU3M2VkZWY0YjdhYzg3YjU1YWYyM2Y2ZDY0ZmZiMzczMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HRJNA2V0KCO-Od0UwQSN6s03FeSandNVRU4KTzXPRPQ" alt="Pixel Coding Vibe Banner" width="05%" style="border-radius: 10px;"> My name is Nahid
+Hi ! My name is Nahid
 ==============================================================================================================================
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nahidshuvo1802&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<t/>
+![](https://nirzak-streak-stats.vercel.app/?user=nahidshuvo1802&theme=dark&hide_border=false)<t/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidshuvo1802&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 Flutter Developer and Vibe Coder
 --------------------------------
