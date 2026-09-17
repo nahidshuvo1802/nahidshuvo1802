@@ -19,7 +19,6 @@ Flutter developer for over 2 years with a knack for building everything from sec
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [nahidkhanshuvo7@gmail.com](mailto:nahidkhanshuvo7@gmail.com)
-* 🚀  I'm currently working on [Sparktech Agency](http://www.sparktech.agency)
 * 🧠  I'm currently learning Dart
 * 👥  I'm looking to collaborate on AI projects
 * 💬  Ask me about I'm a vibe debugger also 😉
